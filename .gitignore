@@ -1,4 +1,6 @@
 db.sqlite3
+dotenv
+orig/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
